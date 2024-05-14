@@ -23,24 +23,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/ktara/Desktop/js-myreppo/hw54",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ktara/Desktop/js-myreppo&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ktara\Desktop\js-myreppo\hw54" />
       <recent name="C:\Users\ktara\Desktop\js-myreppo" />
+      <recent name="C:\Users\ktara\Desktop\js-myreppo\hw54" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -53,7 +53,16 @@
       <updated>1711926917196</updated>
       <workItem from="1711926918287" duration="830000" />
       <workItem from="1712247553353" duration="1192000" />
-      <workItem from="1712432085416" duration="1240000" />
+      <workItem from="1712432085416" duration="1936000" />
+      <workItem from="1712754689913" duration="589000" />
+      <workItem from="1712949901119" duration="1179000" />
+      <workItem from="1712957268241" duration="596000" />
+      <workItem from="1712965208623" duration="750000" />
+      <workItem from="1713017395975" duration="541000" />
+      <workItem from="1713033436406" duration="593000" />
+      <workItem from="1713207089583" duration="1784000" />
+      <workItem from="1714262438728" duration="728000" />
+      <workItem from="1714443904032" duration="306000" />
     </task>
     <servers />
   </component>
